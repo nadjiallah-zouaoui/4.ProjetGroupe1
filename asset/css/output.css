@@ -211,12 +211,6 @@
   .gap-5 {
     gap: calc(var(--spacing) * 5);
   }
-  .gap-8 {
-    gap: calc(var(--spacing) * 8);
-  }
-  .gap-98 {
-    gap: calc(var(--spacing) * 98);
-  }
   .border {
     border-style: var(--tw-border-style);
     border-width: 1px;
@@ -226,10 +220,6 @@
   }
   .text-\[32px\] {
     font-size: 32px;
-  }
-  .font-bold {
-    --tw-font-weight: var(--font-weight-bold);
-    font-weight: var(--font-weight-bold);
   }
   .font-extrabold {
     --tw-font-weight: var(--font-weight-extrabold);
